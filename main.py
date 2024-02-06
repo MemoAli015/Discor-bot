@@ -37,4 +37,4 @@ async def on_message(message):
        
 
 # Botu çalıştıralım
-client.run("MTE5Njg1NTM1NzQ4NjY3NDAxMg.GxhPX_.ZRDQsRfa3QKejbbq9Oy-9Zlth6Tml8FRr5aEVs")
+client.run()
